@@ -1,10 +1,10 @@
 {
   "name": "video-api",
   "version": "1.0.0",
-  "main": "server.js",
+  "main": "src/server.js",
   "type": "module",
   "scripts": {
-    "dev": "node --watch server.js"
+    "dev": "node --watch src/server.js"
   },
   "keywords": [],
   "author": "",
